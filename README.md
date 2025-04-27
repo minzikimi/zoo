@@ -1,0 +1,2 @@
+This project is a console-based zoo simulation written in C#. It models a zoo environment where users can interact as either visitors or zookeepers, each with their own set of functionalities. 
+I practiced core OOP principles (abstraction, inheritance, encapsulation, polymorphism), class design, state management, user input handling, and building a functional, interactive console application in C#.
